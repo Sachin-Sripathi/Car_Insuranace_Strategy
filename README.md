@@ -15,13 +15,21 @@ By identifying the most influential factors, the project seeks to optimize conta
 The dataset consists of 19 features that represent customer demographics, past interactions, and campaign outcomes. Key features include:
 
 Age: Customer's age.
+
 Job: Customer's occupation.
+
 Marital Status: Whether the customer is single, married, or divorced.
+
 Education: Customer's education level.
+
 Car Loan & Household Insurance: Existing financial products.
+
 Communication Type: Cellular or telephone contact.
+
 Last Contact Timing: Month and day of last customer interaction.
+
 Previous Attempts: Number of prior attempts to contact the customer.
+
 Campaign Outcome: Result of the campaign (success or failure).\
 
 **Data Preprocessing:**
