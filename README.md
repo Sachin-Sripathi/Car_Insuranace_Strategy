@@ -1,4 +1,4 @@
-# Car_Insuranace_Strategy
+# Car_Insurance_Strategy
 
 **Car Insurance Subscription Prediction**
 This project focuses on predicting whether a customer will subscribe to a car insurance policy based on their demographic details and communication history. By analyzing the timing, frequency, and type of communication, as well as customer demographics, the project aims to improve campaign strategies and enhance subscription rates.
